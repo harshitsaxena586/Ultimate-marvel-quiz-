@@ -7,8 +7,8 @@ const chalk = require('chalk');
 
 
 questionOne = {
-  question: "what is my birthdate ----------------- ",
-  answer: "28 july",
+  question: "what is the title given to loki in marvel  ",
+  answer: "god of mischief",
 }
 questionTwo = {
   question: "What is the real name of the Scarlet Witch? (full name )",
